@@ -1,0 +1,1053 @@
+/home/kedarnath/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/release.flag
+/home/kedarnath/.vscode/extensions/ms-vscode.cpptools-1.13.9-linux-x64/release.flag
+/home/kedarnath/.vscode/extensions/.init-default-profile-extensions
+/home/kedarnath/Public
+/home/kedarnath/Grub-Themes/.git/objects/info
+/home/kedarnath/Grub-Themes/.git/refs/tags
+/home/kedarnath/Grub-Themes/.git/branches
+/home/kedarnath/.cache/motd.legal-displayed
+/home/kedarnath/.cache/evolution/mail/trash
+/home/kedarnath/.cache/evolution/addressbook/trash
+/home/kedarnath/.cache/evolution/memos/trash
+/home/kedarnath/.cache/evolution/sources/trash
+/home/kedarnath/.cache/evolution/calendar/trash
+/home/kedarnath/.cache/evolution/tasks/trash
+/home/kedarnath/.cache/obexd
+/home/kedarnath/.cache/yelp/WebKitCache/Version 16/Blobs
+/home/kedarnath/.cache/ibus-table
+/home/kedarnath/.cache/totem/stream-buffer
+/home/kedarnath/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache/Cache_Data
+/home/kedarnath/.cache/tracker3/files/.meta.isrunning
+/home/kedarnath/bash scripting/empty_report.txt
+/home/kedarnath/.gconf
+/home/kedarnath/.config/enchant/en.dic
+/home/kedarnath/.config/enchant/en.exc
+/home/kedarnath/.config/Code/blob_storage/39f86a7d-e6a1-4059-a41a-fc4c606f99da
+/home/kedarnath/.config/Code/Cookies-journal
+/home/kedarnath/.config/Code/Session Storage/LOCK
+/home/kedarnath/.config/Code/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/Code/Service Worker/Database/LOCK
+/home/kedarnath/.config/Code/Crashpad/pending
+/home/kedarnath/.config/Code/Crashpad/attachments
+/home/kedarnath/.config/Code/Crashpad/new
+/home/kedarnath/.config/Code/Crashpad/completed
+/home/kedarnath/.config/Code/User/snippets
+/home/kedarnath/.config/Code/logs/20230101T164906/editSessions.log
+/home/kedarnath/.config/Code/logs/20230101T164906/window1/exthost/output_logging_20230101T164907/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230101T164906/window1/output_20230101T164907/tasks.log
+/home/kedarnath/.config/Code/logs/20230101T164906/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230102T132904/editSessions.log
+/home/kedarnath/.config/Code/logs/20230102T132904/window1/output_20230102T132905/tasks.log
+/home/kedarnath/.config/Code/logs/20230102T132904/window1/exthost/output_logging_20230102T132906/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230102T132904/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230105T132326/editSessions.log
+/home/kedarnath/.config/Code/logs/20230105T132326/window1/output_20230105T132328/tasks.log
+/home/kedarnath/.config/Code/logs/20230105T132326/window1/exthost/output_logging_20230105T132329/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230105T132326/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230104T132936/editSessions.log
+/home/kedarnath/.config/Code/logs/20230104T132936/window1/output_20230104T132938/tasks.log
+/home/kedarnath/.config/Code/logs/20230104T132936/window1/exthost/output_logging_20230104T132938/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230104T132936/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230104T220843/editSessions.log
+/home/kedarnath/.config/Code/logs/20230104T220843/window1/output_20230104T220845/tasks.log
+/home/kedarnath/.config/Code/logs/20230104T220843/window1/exthost/output_logging_20230104T220846/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230104T220843/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230103T104249/editSessions.log
+/home/kedarnath/.config/Code/logs/20230103T104249/window1/output_20230103T104251/tasks.log
+/home/kedarnath/.config/Code/logs/20230103T104249/window1/exthost/output_logging_20230103T104251/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230103T104249/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230101T165008
+/home/kedarnath/.config/Code/logs/20230106T135841/editSessions.log
+/home/kedarnath/.config/Code/logs/20230106T135841/window1/output_20230106T135843/tasks.log
+/home/kedarnath/.config/Code/logs/20230106T135841/window1/exthost/output_logging_20230106T135844/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230106T135841/window1/exthost/output_logging_20230106T135844/2-JSON Language Server.log
+/home/kedarnath/.config/Code/logs/20230106T135841/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230103T133509/editSessions.log
+/home/kedarnath/.config/Code/logs/20230103T133509/window1/output_20230103T133510/tasks.log
+/home/kedarnath/.config/Code/logs/20230103T133509/window1/exthost/output_logging_20230103T133511/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230103T133509/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230101T101558/editSessions.log
+/home/kedarnath/.config/Code/logs/20230101T101558/window1/output_20230101T101600/tasks.log
+/home/kedarnath/.config/Code/logs/20230101T101558/window1/exthost/output_logging_20230101T101600/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230101T101558/window1/exthost/output_logging_20230101T101600/2-JSON Language Server.log
+/home/kedarnath/.config/Code/logs/20230101T101558/remoteTunnelService.log
+/home/kedarnath/.config/Code/databases/Databases.db-journal
+/home/kedarnath/.config/Code/WebStorage/QuotaManager-journal
+/home/kedarnath/.config/Code/Backups
+/home/kedarnath/.config/gnome-session/saved-session
+/home/kedarnath/.config/balena-etcher-electron/Crash Reports
+/home/kedarnath/.config/balena-etcher-electron/blob_storage/70de2e5a-1f4c-4614-a2d1-5805348dd8b6
+/home/kedarnath/.config/balena-etcher-electron/Cookies-journal
+/home/kedarnath/.config/balena-etcher-electron/Partitions/success-banner/blob_storage/b4f0ce5b-9e69-4d69-8e5e-99eb54ef6f6e
+/home/kedarnath/.config/balena-etcher-electron/Partitions/success-banner/Cookies-journal
+/home/kedarnath/.config/balena-etcher-electron/Partitions/success-banner/Session Storage/LOCK
+/home/kedarnath/.config/balena-etcher-electron/Partitions/success-banner/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/balena-etcher-electron/Session Storage/LOCK
+/home/kedarnath/.config/balena-etcher-electron/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/balena-etcher-electron/Local Storage/leveldb/000003.log
+/home/kedarnath/.config/update-notifier
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/afalakplffnnnlkncjhbmahjfjhmlkal/1.0.233/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/BraveWallet/1.0.21/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Crash Reports/pending
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Crash Reports/attachments
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Crash Reports/new
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/First Run
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Webstore Downloads
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/MEIPreload
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/ckcgdbohephpcbegllbicpadgbifppfo/1.0.993/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/iodkpdagapdfkphljnddpjlldadblomo/1.0.159/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/UrlParamClassifications/2022.11.1.1/list.pb
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/WidevineCdm
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/mfddibmblmbccpadfndgakiopmmhebop/1.0.36/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/aoojcmojmmcbpfgoecoadbdpnagfchel/1.0.7/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/gkboaolpopklhgplhaaiboijnklogmbc/1.0.31/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/oofiananboodjbbmdelgdommihjbkfag/1.0.128/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/oofiananboodjbbmdelgdommihjbkfag/1.0.128/6.0/httpse.leveldb/000006.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/oofiananboodjbbmdelgdommihjbkfag/1.0.128/6.0/httpse.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Web Data-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/blob_storage/cb18b7b5-da06-4d29-8673-9a2dc4fd546d
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Cookies-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Sync App Settings
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Extension Cookies-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/BudgetDatabase/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/BudgetDatabase/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/BudgetDatabase/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/coupon_db/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/coupon_db/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/coupon_db/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Safe Browsing Cookies-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Login Data For Account-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Extension Rules/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/commerce_subscription_db/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/commerce_subscription_db/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/commerce_subscription_db/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Session Storage/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sonyliv.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chingari.io_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.blob/12/00
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.docker.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_files.im_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fast-dl.link_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000004.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.jiosaavn.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_freecoursesite.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/000007.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.balena.io_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mxplayer.in_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.jiosaavn.com_0.indexeddb.blob/1/00
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.blob/17/00
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob/1/00
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gadgets360.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gadgets360.com_0.indexeddb.leveldb/000004.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.researchgate.net_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.codechef.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_yandex.com_0.indexeddb.leveldb/000006.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_yandex.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_uplovd.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_vlscppe.microsoft.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_writerslabs.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000004.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.blob/1/00
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.blob/1/01
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000004.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.microsoft.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dood.wf_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_filepress.lol_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000009.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sejda.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Web Applications/Temp
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Web Applications/Manifest Resources/picebhhlijnlefeleilfbanaghjlkkna/Icons Monochrome
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Platform Notifications/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Platform Notifications/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Top Sites-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Sync Extension Settings
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/heavy_ad_intervention_opt_out.db-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/databases/Databases.db-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/001/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/001/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/Origins/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/005/p/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/005/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/002/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/002/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/007/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/007/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/004/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/004/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/003/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/003/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/006/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/006/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/000/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/000/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Login Data-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Network Action Predictor-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/GCM Store/Encryption/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/GCM Store/Encryption/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Extension Scripts/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/VideoDecodeStats/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/VideoDecodeStats/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/VideoDecodeStats/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Favicons-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Shortcuts-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/AutofillStrikeDatabase/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/AutofillStrikeDatabase/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/AutofillStrikeDatabase/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/WebStorage/QuotaManager-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Reporting and NEL-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Affiliation Database-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Download Service/Files
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Download Service/EntryDB/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Download Service/EntryDB/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Download Service/EntryDB/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/EventDB/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/EventDB/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/EventDB/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/ekcgkejcjdcmonfpmnljobemcbpnkamh/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Extension State/LOCK
+/home/kedarnath/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/extensions
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/psprint
+/home/kedarnath/.config/libreoffice/4/user/autocorr
+/home/kedarnath/.config/libreoffice/4/user/backup
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/uno_packages
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/sdraw/toolbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/sdraw/menubar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/sdraw/popupmenu
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/sdraw/images/Bitmaps
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/sdraw/statusbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/toolbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/menubar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/popupmenu
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/images/Bitmaps
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/statusbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/StartModule/toolbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/StartModule/menubar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/StartModule/popupmenu
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/StartModule/images/Bitmaps
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/StartModule/statusbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/scalc/toolbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/scalc/menubar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/scalc/popupmenu
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/scalc/images/Bitmaps
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/scalc/statusbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/toolbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/menubar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/popupmenu
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/statusbar
+/home/kedarnath/.config/autostart
+/home/kedarnath/.config/procps
+/home/kedarnath/.config/.gsd-keyboard.settings-ported
+/home/kedarnath/.config/google-chrome/hyphen-data
+/home/kedarnath/.config/google-chrome/Crash Reports/pending
+/home/kedarnath/.config/google-chrome/Crash Reports/attachments
+/home/kedarnath/.config/google-chrome/Crash Reports/new
+/home/kedarnath/.config/google-chrome/Crash Reports/completed
+/home/kedarnath/.config/google-chrome/First Run
+/home/kedarnath/.config/google-chrome/Subresource Filter/Unindexed Rules
+/home/kedarnath/.config/google-chrome/SSLErrorAssistant
+/home/kedarnath/.config/google-chrome/DesktopSharingHub
+/home/kedarnath/.config/google-chrome/MEIPreload
+/home/kedarnath/.config/google-chrome/OptimizationHints
+/home/kedarnath/.config/google-chrome/ClientSidePhishing
+/home/kedarnath/.config/google-chrome/FirstPartySetsPreloaded
+/home/kedarnath/.config/google-chrome/OnDeviceHeadSuggestModel
+/home/kedarnath/.config/google-chrome/FileTypePolicies
+/home/kedarnath/.config/google-chrome/PKIMetadata
+/home/kedarnath/.config/google-chrome/ZxcvbnData
+/home/kedarnath/.config/google-chrome/UrlParamClassifications
+/home/kedarnath/.config/google-chrome/Crowd Deny
+/home/kedarnath/.config/google-chrome/Safe Browsing
+/home/kedarnath/.config/google-chrome/pnacl
+/home/kedarnath/.config/google-chrome/CertificateRevocation
+/home/kedarnath/.config/google-chrome/AutofillStates
+/home/kedarnath/.config/google-chrome/OriginTrials
+/home/kedarnath/.config/google-chrome/Default/Web Data-journal
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB/LOG
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB/LOG
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SignalDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SignalDB/LOG
+/home/kedarnath/.config/google-chrome/Default/blob_storage/573e909c-780f-4b47-acca-bd38082efe45
+/home/kedarnath/.config/google-chrome/Default/Cookies-journal
+/home/kedarnath/.config/google-chrome/Default/optimization_guide_hint_cache_store/LOCK
+/home/kedarnath/.config/google-chrome/Default/optimization_guide_hint_cache_store/LOG
+/home/kedarnath/.config/google-chrome/Default/BudgetDatabase/LOCK
+/home/kedarnath/.config/google-chrome/Default/BudgetDatabase/LOG
+/home/kedarnath/.config/google-chrome/Default/coupon_db/LOCK
+/home/kedarnath/.config/google-chrome/Default/coupon_db/LOG
+/home/kedarnath/.config/google-chrome/Default/Safe Browsing Cookies-journal
+/home/kedarnath/.config/google-chrome/Default/Login Data For Account-journal
+/home/kedarnath/.config/google-chrome/Default/Extension Rules/LOCK
+/home/kedarnath/.config/google-chrome/Default/commerce_subscription_db/LOCK
+/home/kedarnath/.config/google-chrome/Default/commerce_subscription_db/LOG
+/home/kedarnath/.config/google-chrome/Default/shared_proto_db/metadata/LOCK
+/home/kedarnath/.config/google-chrome/Default/shared_proto_db/LOCK
+/home/kedarnath/.config/google-chrome/Default/Session Storage/LOCK
+/home/kedarnath/.config/google-chrome/Default/Site Characteristics Database/LOCK
+/home/kedarnath/.config/google-chrome/Default/optimization_guide_model_metadata_store/LOCK
+/home/kedarnath/.config/google-chrome/Default/optimization_guide_model_metadata_store/LOG
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Temp
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/google-chrome/Default/Local Storage/leveldb/000003.log
+/home/kedarnath/.config/google-chrome/Default/Top Sites-journal
+/home/kedarnath/.config/google-chrome/Default/heavy_ad_intervention_opt_out.db-journal
+/home/kedarnath/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Session Storage/LOCK
+/home/kedarnath/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Session Storage/000003.log
+/home/kedarnath/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Local Storage/leveldb/000003.log
+/home/kedarnath/.config/google-chrome/Default/LOCK
+/home/kedarnath/.config/google-chrome/Default/Login Data-journal
+/home/kedarnath/.config/google-chrome/Default/Network Action Predictor-journal
+/home/kedarnath/.config/google-chrome/Default/GCM Store/Encryption/LOCK
+/home/kedarnath/.config/google-chrome/Default/GCM Store/Encryption/000003.log
+/home/kedarnath/.config/google-chrome/Default/Extension Scripts/LOCK
+/home/kedarnath/.config/google-chrome/Default/LOG
+/home/kedarnath/.config/google-chrome/Default/Favicons-journal
+/home/kedarnath/.config/google-chrome/Default/Shortcuts-journal
+/home/kedarnath/.config/google-chrome/Default/AutofillStrikeDatabase/LOCK
+/home/kedarnath/.config/google-chrome/Default/AutofillStrikeDatabase/LOG
+/home/kedarnath/.config/google-chrome/Default/Reporting and NEL-journal
+/home/kedarnath/.config/google-chrome/Default/Affiliation Database-journal
+/home/kedarnath/.config/google-chrome/Default/History-journal
+/home/kedarnath/.config/google-chrome/Default/Download Service/Files
+/home/kedarnath/.config/google-chrome/Default/Download Service/EntryDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Download Service/EntryDB/LOG
+/home/kedarnath/.config/google-chrome/Default/Sync Data/LevelDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Extensions/Temp
+/home/kedarnath/.config/google-chrome/Default/Feature Engagement Tracker/EventDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Feature Engagement Tracker/EventDB/LOG
+/home/kedarnath/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+/home/kedarnath/.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi/LOCK
+/home/kedarnath/.config/google-chrome/Default/Extension State/LOCK
+/home/kedarnath/.config/google-chrome/SafetyTips
+/home/kedarnath/.config/filezilla/lockfile
+/home/kedarnath/snap/snapd-desktop-integration/43/Documents
+/home/kedarnath/snap/snapd-desktop-integration/43/Videos
+/home/kedarnath/snap/snapd-desktop-integration/43/Public
+/home/kedarnath/snap/snapd-desktop-integration/43/Desktop
+/home/kedarnath/snap/snapd-desktop-integration/43/Music
+/home/kedarnath/snap/snapd-desktop-integration/43/Templates
+/home/kedarnath/snap/snapd-desktop-integration/43/Pictures
+/home/kedarnath/snap/snapd-desktop-integration/43/Downloads
+/home/kedarnath/snap/snapd-desktop-integration/43/.local/share/icons
+/home/kedarnath/snap/snapd-desktop-integration/43/.local/share/glib-2.0/schemas
+/home/kedarnath/snap/snapd-desktop-integration/49/Documents
+/home/kedarnath/snap/snapd-desktop-integration/49/Videos
+/home/kedarnath/snap/snapd-desktop-integration/49/Public
+/home/kedarnath/snap/snapd-desktop-integration/49/Desktop
+/home/kedarnath/snap/snapd-desktop-integration/49/Music
+/home/kedarnath/snap/snapd-desktop-integration/49/Templates
+/home/kedarnath/snap/snapd-desktop-integration/49/Pictures
+/home/kedarnath/snap/snapd-desktop-integration/49/Downloads
+/home/kedarnath/snap/snapd-desktop-integration/49/.local/share/icons
+/home/kedarnath/snap/snapd-desktop-integration/49/.local/share/glib-2.0/schemas
+/home/kedarnath/snap/video-downloader/979/.local/share/icons
+/home/kedarnath/snap/video-downloader/983/.local/share/icons
+/home/kedarnath/snap/snap-store/common/.cache/appstream
+/home/kedarnath/snap/code/116
+/home/kedarnath/snap/firefox/2263/.local/share/icons
+/home/kedarnath/snap/firefox/2263/.local/share/glib-2.0/schemas
+/home/kedarnath/snap/firefox/2211/.local/share/icons
+/home/kedarnath/snap/firefox/2211/.local/share/glib-2.0/schemas
+/home/kedarnath/snap/firefox/common/.cache/mozilla/firefox/qamm5w33.default/cache2/doomed
+/home/kedarnath/snap/firefox/common/.mozilla/extensions
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/Crash Reports/events
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/crashes/events
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/datareporting/glean/tmp
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/saved-telemetry-pings
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/2918063365piupsah.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/3561288849sdhlie.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/1451318868ntouromlalnodry--epcr.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/2823318777ntouromlalnodry--naod.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/temporary
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/default/moz-extension+++ed36a8b8-bf3a-40b1-8aee-c8b5fa69f37f^userContextId=4294967295/idb/3647222921wleabcEoxlt-eengsairo.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.com%29/idb/517893073LCo7g%sCD7a%t7a8bdafs.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.com%29/idb/2171031483YattIedMb.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/.parentlock
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/browser-extension-data/amazondotcom@search.mozilla.org
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/minidumps
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/Pending Pings
+/home/kedarnath/snap/docker/common
+/home/kedarnath/snap/docker/2285
+/home/kedarnath/zsh
+/home/kedarnath/.oh-my-zsh/plugins/fabric/fabric.plugin.zsh
+/home/kedarnath/.oh-my-zsh/plugins/glassfish/glassfish.plugin.zsh
+/home/kedarnath/.oh-my-zsh/plugins/golang/templates/search.txt
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autocomplete/.git/objects/info
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autocomplete/.git/refs/tags
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autocomplete/.git/branches
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autosuggestions/.git/objects/info
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autosuggestions/.git/refs/tags
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autosuggestions/.git/branches
+/home/kedarnath/.oh-my-zsh/custom/plugins/fast-syntax-highlighting/tests/_support/.gitkeep
+/home/kedarnath/.oh-my-zsh/custom/plugins/fast-syntax-highlighting/tests/_output/.gitkeep
+/home/kedarnath/.oh-my-zsh/custom/plugins/fast-syntax-highlighting/.git/objects/info
+/home/kedarnath/.oh-my-zsh/custom/plugins/fast-syntax-highlighting/.git/refs/tags
+/home/kedarnath/.oh-my-zsh/custom/plugins/fast-syntax-highlighting/.git/branches
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/.git/objects/info
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/.git/refs/tags
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/.git/branches
+/home/kedarnath/.oh-my-zsh/cache/.gitkeep
+/home/kedarnath/.oh-my-zsh/cache/completions
+/home/kedarnath/.oh-my-zsh/.git/objects/info
+/home/kedarnath/.oh-my-zsh/.git/refs/tags
+/home/kedarnath/.oh-my-zsh/.git/branches
+/home/kedarnath/.oh-my-zsh/log/.gitkeep
+/home/kedarnath/no.txt
+/home/kedarnath/kali-undercover/README.md
+/home/kedarnath/kali-undercover/.git/objects/info
+/home/kedarnath/kali-undercover/.git/refs/tags
+/home/kedarnath/kali-undercover/.git/branches
+/home/kedarnath/Templates
+/home/kedarnath/Pictures/wallpapers/my_wallpapers-main/README.md
+/home/kedarnath/Pictures/wallpapers/images
+/home/kedarnath/Pictures/wallpapers/hq-wallpapers-master/Superheroes
+/home/kedarnath/Pictures/wallpapers/hq-wallpapers-master/Minimal
+/home/kedarnath/Pictures/wallpapers/hq-wallpapers-master/Games
+/home/kedarnath/Downloads/Vortex-Dark-Icons/animations/24
+/home/kedarnath/Downloads/Vortex-Dark-Icons/emotes/24
+/home/kedarnath/DS/searching and sorting/dfd.c
+/home/kedarnath/.gphoto
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-06.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-03.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-01.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2022-12-30.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-06.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-05.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-04.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2022-12-30.pty.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-04.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2022-12-30.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-02.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-01.pty.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-04.pty.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2022-12-31.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-06.pty.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-01.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-02.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-05.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-03.async.log
+/home/kedarnath/.local/share/TelegramDesktop/tdata/user_data/cache/0/99
+/home/kedarnath/.local/share/evolution/mail/trash
+/home/kedarnath/.local/share/evolution/addressbook/trash
+/home/kedarnath/.local/share/evolution/addressbook/system/photos
+/home/kedarnath/.local/share/evolution/memos/trash
+/home/kedarnath/.local/share/evolution/calendar/trash
+/home/kedarnath/.local/share/evolution/tasks/trash
+/home/kedarnath/.local/share/gnome-mines/scores
+/home/kedarnath/.local/share/Trash/files/character arrays and strings
+/home/kedarnath/.local/share/Trash/files/pointers and dynamic memory
+/home/kedarnath/.local/share/Trash/files/pointers and dynamic memory.2
+/home/kedarnath/.local/share/Trash/expunged
+/home/kedarnath/.local/share/nautilus/tracker2-migration-complete
+/home/kedarnath/.local/share/nautilus/tags/meta.db-wal
+/home/kedarnath/.local/share/nautilus/tags/.meta.isrunning
+/home/kedarnath/.local/share/nautilus/scripts
+/home/kedarnath/.local/share/applications/mimeapps.list
+/home/kedarnath/.local/share/ibus-table
+/home/kedarnath/.local/share/webkitgtk/deviceidhashsalts/1
+/home/kedarnath/.local/share/nano
+/home/kedarnath/.local/share/gstreamer-1.0/presets
+/home/kedarnath/.local/share/totem
+/home/kedarnath/.local/share/sounds
+/home/kedarnath/.local/share/gnome-settings-daemon/input-sources-converted
+/home/kedarnath/.local/share/gnome-shell/gnome-overrides-migrated
+/home/kedarnath/.local/share/gnome-shell/extension-updates
+/home/kedarnath/.sudo_as_admin_successful
+/home/kedarnath/psweb/.git/objects/info
+/home/kedarnath/psweb/.git/refs/tags
+/home/kedarnath/psweb/.git/branches
+/home/kedarnath/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/release.flag
+/home/kedarnath/.vscode/extensions/ms-vscode.cpptools-1.13.9-linux-x64/release.flag
+/home/kedarnath/.vscode/extensions/.init-default-profile-extensions
+/home/kedarnath/Public
+/home/kedarnath/Grub-Themes/.git/objects/info
+/home/kedarnath/Grub-Themes/.git/refs/tags
+/home/kedarnath/Grub-Themes/.git/branches
+/home/kedarnath/.cache/motd.legal-displayed
+/home/kedarnath/.cache/evolution/mail/trash
+/home/kedarnath/.cache/evolution/addressbook/trash
+/home/kedarnath/.cache/evolution/memos/trash
+/home/kedarnath/.cache/evolution/sources/trash
+/home/kedarnath/.cache/evolution/calendar/trash
+/home/kedarnath/.cache/evolution/tasks/trash
+/home/kedarnath/.cache/obexd
+/home/kedarnath/.cache/yelp/WebKitCache/Version 16/Blobs
+/home/kedarnath/.cache/ibus-table
+/home/kedarnath/.cache/totem/stream-buffer
+/home/kedarnath/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache/Cache_Data
+/home/kedarnath/.cache/tracker3/files/.meta.isrunning
+/home/kedarnath/.gconf
+/home/kedarnath/.config/enchant/en.dic
+/home/kedarnath/.config/enchant/en.exc
+/home/kedarnath/.config/Code/blob_storage/39f86a7d-e6a1-4059-a41a-fc4c606f99da
+/home/kedarnath/.config/Code/Cookies-journal
+/home/kedarnath/.config/Code/Session Storage/LOCK
+/home/kedarnath/.config/Code/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/Code/Service Worker/Database/LOCK
+/home/kedarnath/.config/Code/Crashpad/pending
+/home/kedarnath/.config/Code/Crashpad/attachments
+/home/kedarnath/.config/Code/Crashpad/new
+/home/kedarnath/.config/Code/Crashpad/completed
+/home/kedarnath/.config/Code/User/snippets
+/home/kedarnath/.config/Code/logs/20230101T164906/editSessions.log
+/home/kedarnath/.config/Code/logs/20230101T164906/window1/exthost/output_logging_20230101T164907/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230101T164906/window1/output_20230101T164907/tasks.log
+/home/kedarnath/.config/Code/logs/20230101T164906/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230102T132904/editSessions.log
+/home/kedarnath/.config/Code/logs/20230102T132904/window1/output_20230102T132905/tasks.log
+/home/kedarnath/.config/Code/logs/20230102T132904/window1/exthost/output_logging_20230102T132906/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230102T132904/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230105T132326/editSessions.log
+/home/kedarnath/.config/Code/logs/20230105T132326/window1/output_20230105T132328/tasks.log
+/home/kedarnath/.config/Code/logs/20230105T132326/window1/exthost/output_logging_20230105T132329/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230105T132326/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230104T132936/editSessions.log
+/home/kedarnath/.config/Code/logs/20230104T132936/window1/output_20230104T132938/tasks.log
+/home/kedarnath/.config/Code/logs/20230104T132936/window1/exthost/output_logging_20230104T132938/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230104T132936/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230104T220843/editSessions.log
+/home/kedarnath/.config/Code/logs/20230104T220843/window1/output_20230104T220845/tasks.log
+/home/kedarnath/.config/Code/logs/20230104T220843/window1/exthost/output_logging_20230104T220846/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230104T220843/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230103T104249/editSessions.log
+/home/kedarnath/.config/Code/logs/20230103T104249/window1/output_20230103T104251/tasks.log
+/home/kedarnath/.config/Code/logs/20230103T104249/window1/exthost/output_logging_20230103T104251/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230103T104249/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230101T165008
+/home/kedarnath/.config/Code/logs/20230106T135841/editSessions.log
+/home/kedarnath/.config/Code/logs/20230106T135841/window1/output_20230106T135843/tasks.log
+/home/kedarnath/.config/Code/logs/20230106T135841/window1/exthost/output_logging_20230106T135844/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230106T135841/window1/exthost/output_logging_20230106T135844/2-JSON Language Server.log
+/home/kedarnath/.config/Code/logs/20230106T135841/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230103T133509/editSessions.log
+/home/kedarnath/.config/Code/logs/20230103T133509/window1/output_20230103T133510/tasks.log
+/home/kedarnath/.config/Code/logs/20230103T133509/window1/exthost/output_logging_20230103T133511/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230103T133509/remoteTunnelService.log
+/home/kedarnath/.config/Code/logs/20230101T101558/editSessions.log
+/home/kedarnath/.config/Code/logs/20230101T101558/window1/output_20230101T101600/tasks.log
+/home/kedarnath/.config/Code/logs/20230101T101558/window1/exthost/output_logging_20230101T101600/1-remote-attach.log
+/home/kedarnath/.config/Code/logs/20230101T101558/window1/exthost/output_logging_20230101T101600/2-JSON Language Server.log
+/home/kedarnath/.config/Code/logs/20230101T101558/remoteTunnelService.log
+/home/kedarnath/.config/Code/databases/Databases.db-journal
+/home/kedarnath/.config/Code/WebStorage/QuotaManager-journal
+/home/kedarnath/.config/Code/Backups
+/home/kedarnath/.config/gnome-session/saved-session
+/home/kedarnath/.config/balena-etcher-electron/Crash Reports
+/home/kedarnath/.config/balena-etcher-electron/blob_storage/70de2e5a-1f4c-4614-a2d1-5805348dd8b6
+/home/kedarnath/.config/balena-etcher-electron/Cookies-journal
+/home/kedarnath/.config/balena-etcher-electron/Partitions/success-banner/blob_storage/b4f0ce5b-9e69-4d69-8e5e-99eb54ef6f6e
+/home/kedarnath/.config/balena-etcher-electron/Partitions/success-banner/Cookies-journal
+/home/kedarnath/.config/balena-etcher-electron/Partitions/success-banner/Session Storage/LOCK
+/home/kedarnath/.config/balena-etcher-electron/Partitions/success-banner/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/balena-etcher-electron/Session Storage/LOCK
+/home/kedarnath/.config/balena-etcher-electron/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/balena-etcher-electron/Local Storage/leveldb/000003.log
+/home/kedarnath/.config/update-notifier
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/afalakplffnnnlkncjhbmahjfjhmlkal/1.0.233/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/BraveWallet/1.0.21/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Crash Reports/pending
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Crash Reports/attachments
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Crash Reports/new
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/First Run
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Webstore Downloads
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/MEIPreload
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/ckcgdbohephpcbegllbicpadgbifppfo/1.0.993/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/iodkpdagapdfkphljnddpjlldadblomo/1.0.159/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/UrlParamClassifications/2022.11.1.1/list.pb
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/WidevineCdm
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/mfddibmblmbccpadfndgakiopmmhebop/1.0.36/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/aoojcmojmmcbpfgoecoadbdpnagfchel/1.0.7/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/gkboaolpopklhgplhaaiboijnklogmbc/1.0.31/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/oofiananboodjbbmdelgdommihjbkfag/1.0.128/manifest.fingerprint
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/oofiananboodjbbmdelgdommihjbkfag/1.0.128/6.0/httpse.leveldb/000006.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/oofiananboodjbbmdelgdommihjbkfag/1.0.128/6.0/httpse.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Web Data-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/blob_storage/cb18b7b5-da06-4d29-8673-9a2dc4fd546d
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Cookies-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Sync App Settings
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Extension Cookies-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/BudgetDatabase/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/BudgetDatabase/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/BudgetDatabase/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/coupon_db/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/coupon_db/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/coupon_db/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Safe Browsing Cookies-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Login Data For Account-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Extension Rules/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/commerce_subscription_db/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/commerce_subscription_db/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/commerce_subscription_db/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Session Storage/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sonyliv.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chingari.io_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.blob/12/00
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.docker.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_files.im_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fast-dl.link_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000004.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.jiosaavn.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_freecoursesite.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/000007.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.balena.io_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mxplayer.in_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.jiosaavn.com_0.indexeddb.blob/1/00
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.blob/17/00
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob/1/00
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gadgets360.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gadgets360.com_0.indexeddb.leveldb/000004.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.researchgate.net_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.codechef.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_yandex.com_0.indexeddb.leveldb/000006.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_yandex.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_uplovd.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_vlscppe.microsoft.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_writerslabs.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000004.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.blob/1/00
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.blob/1/01
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000004.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.microsoft.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dood.wf_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_filepress.lol_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000009.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sejda.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Web Applications/Temp
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Web Applications/Manifest Resources/picebhhlijnlefeleilfbanaghjlkkna/Icons Monochrome
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Platform Notifications/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Platform Notifications/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Top Sites-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Sync Extension Settings
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/heavy_ad_intervention_opt_out.db-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/databases/Databases.db-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/001/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/001/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/Origins/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/005/p/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/005/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/002/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/002/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/007/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/007/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/004/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/004/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/003/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/003/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/006/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/006/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/000/t/Paths/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/File System/000/t/Paths/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Login Data-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Network Action Predictor-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/GCM Store/Encryption/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/GCM Store/Encryption/000003.log
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Extension Scripts/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/VideoDecodeStats/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/VideoDecodeStats/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/VideoDecodeStats/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Favicons-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Shortcuts-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/AutofillStrikeDatabase/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/AutofillStrikeDatabase/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/AutofillStrikeDatabase/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/WebStorage/QuotaManager-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Reporting and NEL-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Affiliation Database-journal
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Download Service/Files
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Download Service/EntryDB/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Download Service/EntryDB/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Download Service/EntryDB/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/EventDB/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/EventDB/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/EventDB/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/ekcgkejcjdcmonfpmnljobemcbpnkamh/LOCK
+/home/kedarnath/.config/BraveSoftware/Brave-Browser/Default/Extension State/LOCK
+/home/kedarnath/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/extensions
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/psprint
+/home/kedarnath/.config/libreoffice/4/user/autocorr
+/home/kedarnath/.config/libreoffice/4/user/backup
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+/home/kedarnath/.config/libreoffice/4/user/uno_packages/cache/uno_packages
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/sdraw/toolbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/sdraw/menubar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/sdraw/popupmenu
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/sdraw/images/Bitmaps
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/sdraw/statusbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/toolbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/menubar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/popupmenu
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/images/Bitmaps
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/statusbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/StartModule/toolbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/StartModule/menubar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/StartModule/popupmenu
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/StartModule/images/Bitmaps
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/StartModule/statusbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/scalc/toolbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/scalc/menubar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/scalc/popupmenu
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/scalc/images/Bitmaps
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/scalc/statusbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/toolbar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/menubar
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/popupmenu
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+/home/kedarnath/.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/statusbar
+/home/kedarnath/.config/autostart
+/home/kedarnath/.config/procps
+/home/kedarnath/.config/.gsd-keyboard.settings-ported
+/home/kedarnath/.config/google-chrome/hyphen-data
+/home/kedarnath/.config/google-chrome/Crash Reports/pending
+/home/kedarnath/.config/google-chrome/Crash Reports/attachments
+/home/kedarnath/.config/google-chrome/Crash Reports/new
+/home/kedarnath/.config/google-chrome/Crash Reports/completed
+/home/kedarnath/.config/google-chrome/First Run
+/home/kedarnath/.config/google-chrome/Subresource Filter/Unindexed Rules
+/home/kedarnath/.config/google-chrome/SSLErrorAssistant
+/home/kedarnath/.config/google-chrome/DesktopSharingHub
+/home/kedarnath/.config/google-chrome/MEIPreload
+/home/kedarnath/.config/google-chrome/OptimizationHints
+/home/kedarnath/.config/google-chrome/ClientSidePhishing
+/home/kedarnath/.config/google-chrome/FirstPartySetsPreloaded
+/home/kedarnath/.config/google-chrome/OnDeviceHeadSuggestModel
+/home/kedarnath/.config/google-chrome/FileTypePolicies
+/home/kedarnath/.config/google-chrome/PKIMetadata
+/home/kedarnath/.config/google-chrome/ZxcvbnData
+/home/kedarnath/.config/google-chrome/UrlParamClassifications
+/home/kedarnath/.config/google-chrome/Crowd Deny
+/home/kedarnath/.config/google-chrome/Safe Browsing
+/home/kedarnath/.config/google-chrome/pnacl
+/home/kedarnath/.config/google-chrome/CertificateRevocation
+/home/kedarnath/.config/google-chrome/AutofillStates
+/home/kedarnath/.config/google-chrome/OriginTrials
+/home/kedarnath/.config/google-chrome/Default/Web Data-journal
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB/LOG
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB/LOG
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SignalDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Segmentation Platform/SignalDB/LOG
+/home/kedarnath/.config/google-chrome/Default/blob_storage/573e909c-780f-4b47-acca-bd38082efe45
+/home/kedarnath/.config/google-chrome/Default/Cookies-journal
+/home/kedarnath/.config/google-chrome/Default/optimization_guide_hint_cache_store/LOCK
+/home/kedarnath/.config/google-chrome/Default/optimization_guide_hint_cache_store/LOG
+/home/kedarnath/.config/google-chrome/Default/BudgetDatabase/LOCK
+/home/kedarnath/.config/google-chrome/Default/BudgetDatabase/LOG
+/home/kedarnath/.config/google-chrome/Default/coupon_db/LOCK
+/home/kedarnath/.config/google-chrome/Default/coupon_db/LOG
+/home/kedarnath/.config/google-chrome/Default/Safe Browsing Cookies-journal
+/home/kedarnath/.config/google-chrome/Default/Login Data For Account-journal
+/home/kedarnath/.config/google-chrome/Default/Extension Rules/LOCK
+/home/kedarnath/.config/google-chrome/Default/commerce_subscription_db/LOCK
+/home/kedarnath/.config/google-chrome/Default/commerce_subscription_db/LOG
+/home/kedarnath/.config/google-chrome/Default/shared_proto_db/metadata/LOCK
+/home/kedarnath/.config/google-chrome/Default/shared_proto_db/LOCK
+/home/kedarnath/.config/google-chrome/Default/Session Storage/LOCK
+/home/kedarnath/.config/google-chrome/Default/Site Characteristics Database/LOCK
+/home/kedarnath/.config/google-chrome/Default/optimization_guide_model_metadata_store/LOCK
+/home/kedarnath/.config/google-chrome/Default/optimization_guide_model_metadata_store/LOG
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Temp
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons Monochrome
+/home/kedarnath/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons Maskable
+/home/kedarnath/.config/google-chrome/Default/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/google-chrome/Default/Local Storage/leveldb/000003.log
+/home/kedarnath/.config/google-chrome/Default/Top Sites-journal
+/home/kedarnath/.config/google-chrome/Default/heavy_ad_intervention_opt_out.db-journal
+/home/kedarnath/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Session Storage/LOCK
+/home/kedarnath/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Session Storage/000003.log
+/home/kedarnath/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Local Storage/leveldb/LOCK
+/home/kedarnath/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Local Storage/leveldb/000003.log
+/home/kedarnath/.config/google-chrome/Default/LOCK
+/home/kedarnath/.config/google-chrome/Default/Login Data-journal
+/home/kedarnath/.config/google-chrome/Default/Network Action Predictor-journal
+/home/kedarnath/.config/google-chrome/Default/GCM Store/Encryption/LOCK
+/home/kedarnath/.config/google-chrome/Default/GCM Store/Encryption/000003.log
+/home/kedarnath/.config/google-chrome/Default/Extension Scripts/LOCK
+/home/kedarnath/.config/google-chrome/Default/LOG
+/home/kedarnath/.config/google-chrome/Default/Favicons-journal
+/home/kedarnath/.config/google-chrome/Default/Shortcuts-journal
+/home/kedarnath/.config/google-chrome/Default/AutofillStrikeDatabase/LOCK
+/home/kedarnath/.config/google-chrome/Default/AutofillStrikeDatabase/LOG
+/home/kedarnath/.config/google-chrome/Default/Reporting and NEL-journal
+/home/kedarnath/.config/google-chrome/Default/Affiliation Database-journal
+/home/kedarnath/.config/google-chrome/Default/History-journal
+/home/kedarnath/.config/google-chrome/Default/Download Service/Files
+/home/kedarnath/.config/google-chrome/Default/Download Service/EntryDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Download Service/EntryDB/LOG
+/home/kedarnath/.config/google-chrome/Default/Sync Data/LevelDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Extensions/Temp
+/home/kedarnath/.config/google-chrome/Default/Feature Engagement Tracker/EventDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Feature Engagement Tracker/EventDB/LOG
+/home/kedarnath/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+/home/kedarnath/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+/home/kedarnath/.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi/LOCK
+/home/kedarnath/.config/google-chrome/Default/Extension State/LOCK
+/home/kedarnath/.config/google-chrome/SafetyTips
+/home/kedarnath/.config/filezilla/lockfile
+/home/kedarnath/snap/snapd-desktop-integration/43/Documents
+/home/kedarnath/snap/snapd-desktop-integration/43/Videos
+/home/kedarnath/snap/snapd-desktop-integration/43/Public
+/home/kedarnath/snap/snapd-desktop-integration/43/Desktop
+/home/kedarnath/snap/snapd-desktop-integration/43/Music
+/home/kedarnath/snap/snapd-desktop-integration/43/Templates
+/home/kedarnath/snap/snapd-desktop-integration/43/Pictures
+/home/kedarnath/snap/snapd-desktop-integration/43/Downloads
+/home/kedarnath/snap/snapd-desktop-integration/43/.local/share/icons
+/home/kedarnath/snap/snapd-desktop-integration/43/.local/share/glib-2.0/schemas
+/home/kedarnath/snap/snapd-desktop-integration/49/Documents
+/home/kedarnath/snap/snapd-desktop-integration/49/Videos
+/home/kedarnath/snap/snapd-desktop-integration/49/Public
+/home/kedarnath/snap/snapd-desktop-integration/49/Desktop
+/home/kedarnath/snap/snapd-desktop-integration/49/Music
+/home/kedarnath/snap/snapd-desktop-integration/49/Templates
+/home/kedarnath/snap/snapd-desktop-integration/49/Pictures
+/home/kedarnath/snap/snapd-desktop-integration/49/Downloads
+/home/kedarnath/snap/snapd-desktop-integration/49/.local/share/icons
+/home/kedarnath/snap/snapd-desktop-integration/49/.local/share/glib-2.0/schemas
+/home/kedarnath/snap/video-downloader/979/.local/share/icons
+/home/kedarnath/snap/video-downloader/983/.local/share/icons
+/home/kedarnath/snap/snap-store/common/.cache/appstream
+/home/kedarnath/snap/code/116
+/home/kedarnath/snap/firefox/2263/.local/share/icons
+/home/kedarnath/snap/firefox/2263/.local/share/glib-2.0/schemas
+/home/kedarnath/snap/firefox/2211/.local/share/icons
+/home/kedarnath/snap/firefox/2211/.local/share/glib-2.0/schemas
+/home/kedarnath/snap/firefox/common/.cache/mozilla/firefox/qamm5w33.default/cache2/doomed
+/home/kedarnath/snap/firefox/common/.mozilla/extensions
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/Crash Reports/events
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/crashes/events
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/datareporting/glean/tmp
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/saved-telemetry-pings
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/2918063365piupsah.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/3561288849sdhlie.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/1451318868ntouromlalnodry--epcr.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/permanent/chrome/idb/2823318777ntouromlalnodry--naod.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/temporary
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/default/moz-extension+++ed36a8b8-bf3a-40b1-8aee-c8b5fa69f37f^userContextId=4294967295/idb/3647222921wleabcEoxlt-eengsairo.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.com%29/idb/517893073LCo7g%sCD7a%t7a8bdafs.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.com%29/idb/2171031483YattIedMb.files
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/.parentlock
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/browser-extension-data/amazondotcom@search.mozilla.org
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/qamm5w33.default/minidumps
+/home/kedarnath/snap/firefox/common/.mozilla/firefox/Pending Pings
+/home/kedarnath/snap/docker/common
+/home/kedarnath/snap/docker/2285
+/home/kedarnath/zsh
+/home/kedarnath/.oh-my-zsh/plugins/fabric/fabric.plugin.zsh
+/home/kedarnath/.oh-my-zsh/plugins/glassfish/glassfish.plugin.zsh
+/home/kedarnath/.oh-my-zsh/plugins/golang/templates/search.txt
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autocomplete/.git/objects/info
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autocomplete/.git/refs/tags
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autocomplete/.git/branches
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autosuggestions/.git/objects/info
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autosuggestions/.git/refs/tags
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-autosuggestions/.git/branches
+/home/kedarnath/.oh-my-zsh/custom/plugins/fast-syntax-highlighting/tests/_support/.gitkeep
+/home/kedarnath/.oh-my-zsh/custom/plugins/fast-syntax-highlighting/tests/_output/.gitkeep
+/home/kedarnath/.oh-my-zsh/custom/plugins/fast-syntax-highlighting/.git/objects/info
+/home/kedarnath/.oh-my-zsh/custom/plugins/fast-syntax-highlighting/.git/refs/tags
+/home/kedarnath/.oh-my-zsh/custom/plugins/fast-syntax-highlighting/.git/branches
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/.git/objects/info
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/.git/refs/tags
+/home/kedarnath/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/.git/branches
+/home/kedarnath/.oh-my-zsh/cache/.gitkeep
+/home/kedarnath/.oh-my-zsh/cache/completions
+/home/kedarnath/.oh-my-zsh/.git/objects/info
+/home/kedarnath/.oh-my-zsh/.git/refs/tags
+/home/kedarnath/.oh-my-zsh/.git/branches
+/home/kedarnath/.oh-my-zsh/log/.gitkeep
+/home/kedarnath/no.txt
+/home/kedarnath/kali-undercover/README.md
+/home/kedarnath/kali-undercover/.git/objects/info
+/home/kedarnath/kali-undercover/.git/refs/tags
+/home/kedarnath/kali-undercover/.git/branches
+/home/kedarnath/Templates
+/home/kedarnath/Pictures/wallpapers/my_wallpapers-main/README.md
+/home/kedarnath/Pictures/wallpapers/images
+/home/kedarnath/Pictures/wallpapers/hq-wallpapers-master/Superheroes
+/home/kedarnath/Pictures/wallpapers/hq-wallpapers-master/Minimal
+/home/kedarnath/Pictures/wallpapers/hq-wallpapers-master/Games
+/home/kedarnath/Downloads/Vortex-Dark-Icons/animations/24
+/home/kedarnath/Downloads/Vortex-Dark-Icons/emotes/24
+/home/kedarnath/DS/searching and sorting/dfd.c
+/home/kedarnath/.gphoto
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-06.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-03.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-01.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2022-12-30.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-06.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-05.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-04.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2022-12-30.pty.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-04.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2022-12-30.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-02.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-01.pty.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-04.pty.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2022-12-31.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-06.pty.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-01.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-02.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-05.async.log
+/home/kedarnath/.local/share/zsh-autocomplete/log/2023-01-03.async.log
+/home/kedarnath/.local/share/TelegramDesktop/tdata/user_data/cache/0/99
+/home/kedarnath/.local/share/evolution/mail/trash
+/home/kedarnath/.local/share/evolution/addressbook/trash
+/home/kedarnath/.local/share/evolution/addressbook/system/photos
+/home/kedarnath/.local/share/evolution/memos/trash
+/home/kedarnath/.local/share/evolution/calendar/trash
+/home/kedarnath/.local/share/evolution/tasks/trash
+/home/kedarnath/.local/share/gnome-mines/scores
+/home/kedarnath/.local/share/Trash/files/character arrays and strings
+/home/kedarnath/.local/share/Trash/files/pointers and dynamic memory
+/home/kedarnath/.local/share/Trash/files/pointers and dynamic memory.2
+/home/kedarnath/.local/share/Trash/expunged
+/home/kedarnath/.local/share/nautilus/tracker2-migration-complete
+/home/kedarnath/.local/share/nautilus/tags/meta.db-wal
+/home/kedarnath/.local/share/nautilus/tags/.meta.isrunning
+/home/kedarnath/.local/share/nautilus/scripts
+/home/kedarnath/.local/share/applications/mimeapps.list
+/home/kedarnath/.local/share/ibus-table
+/home/kedarnath/.local/share/webkitgtk/deviceidhashsalts/1
+/home/kedarnath/.local/share/nano
+/home/kedarnath/.local/share/gstreamer-1.0/presets
+/home/kedarnath/.local/share/totem
+/home/kedarnath/.local/share/sounds
+/home/kedarnath/.local/share/gnome-settings-daemon/input-sources-converted
+/home/kedarnath/.local/share/gnome-shell/gnome-overrides-migrated
+/home/kedarnath/.local/share/gnome-shell/extension-updates
+/home/kedarnath/.sudo_as_admin_successful
+/home/kedarnath/psweb/.git/objects/info
+/home/kedarnath/psweb/.git/refs/tags
+/home/kedarnath/psweb/.git/branches
